@@ -123,6 +123,10 @@ hr {
     font-weight: 700
 }
 
+
+
+
+
 .donate-plan {
     display: flex;
     width: 30%;
@@ -170,4 +174,32 @@ hr {
 .education {
     margin-left: 3%;
     background-color: antiquewhite;
+}
+
+
+
+.news {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: none;
+    font-size: 50px;
+    color: rgb(95, 53, 245);
+
+    font-weight: 700;
+}
+
+.one-third-width-for-news {
+    width: 17%;
+    padding-left: 1%;
+    border-radius: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+}
+
+.inner-color {
+    background-image: linear-gradient(rgb(204, 157, 157), rgb(105, 240, 233));
+    margin-left: 3%;
 }
