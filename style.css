@@ -1,0 +1,45 @@
+body {
+    font-family: 'Josefin Sans',
+        sans-serif;
+    font-family: 'Poppins',
+        sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0
+}
+
+.First-Part {
+    height: 100vh;
+    background: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin: 0%;
+
+}
+
+.introduction-line {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    margin-top: 30%;
+}
+
+.paragraph-line {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 20%;
+}
+
+.anchor {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-left: 45%;
+    margin-top: 10%;
+    font-weight: 700
+}
