@@ -17,18 +17,20 @@ body {
     background-position: center;
     background-size: 100%;
     margin: 0%;
+    padding: 0%;
+    background-size: cover;
 
 }
 
 .text-position {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .introduction-line {
     font-size: 50px;
     text-align: center;
     color: white;
-    margin-top: 30%;
+    margin-top: 0%;
 }
 
 .paragraph-line {
@@ -202,4 +204,67 @@ h1 {
 .inner-color {
     background-image: linear-gradient(rgb(204, 157, 157), rgb(105, 240, 233));
     margin-left: 3%;
+}
+
+
+.introduction-line-3 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.paragraph-line-3 {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+fieldset {
+    border: solid 1px #080808;
+    background-color: rgb(236, 211, 180);
+    margin-left: 25%;
+    height: 100%;
+    width: 50%;
+    margin-bottom: 20%;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 60px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 50px 80px;
+    background-image: linear-gradient(rgb(68, 219, 212), rgb(204, 104, 58));
+}
+
+.search-box {
+    border: 1px solid beige;
+    padding-bottom: 5px;
+    padding-top: 2px;
+    background-color: beige;
+    background-size: cover;
+}
+
+.subscribe {
+    background-color: rgb(216, 5, 5);
+    border: 1px solid rgb(138, 35, 35);
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px 0 10px 0;
+}
+
+.i’m gonna {
+
+
+    font-style: normal;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
 }
