@@ -20,6 +20,10 @@ body {
 
 }
 
+.text-position {
+    margin-top: 20px;
+}
+
 .introduction-line {
     font-size: 50px;
     text-align: center;
@@ -37,9 +41,133 @@ body {
 .anchor {
     text-decoration: none;
     background-image: linear-gradient(red, orange);
-    padding: 10px 40px;
+    padding: 10px;
     border-radius: 5px;
     margin-left: 45%;
     margin-top: 10%;
     font-weight: 700
+}
+
+
+
+
+.introduction-line-2 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.paragraph-line-2 {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.display-container {
+    display: flex;
+    margin-left: 25%;
+}
+
+.one-fifth-width {
+    box-shadow: 1px 1px 1px 1px;
+    width: 10%;
+    padding-left: 1%;
+    border-radius: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+}
+
+.value-bg {
+    background-color: rgb(252, 251, 251);
+}
+
+.value-2 {
+    border: 1px;
+    border-color: rgb(207, 178, 127);
+    background-color: rgb(172, 41, 9);
+}
+
+
+.value-pass {
+    margin-left: 2%;
+}
+
+
+.value {
+    padding-left: 20px;
+    margin-left: 2%;
+    color: grey;
+    font-size: larger;
+}
+
+small {
+    margin-left: 45%;
+
+}
+
+hr {
+    width: 53%;
+    position: center;
+    margin-top: 1%;
+}
+
+.anchor-2 {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(54, 31, 31), rgb(114, 245, 39));
+    padding: 10px;
+    border-radius: 5%;
+
+    margin-left: 45%;
+    margin-top: 10%;
+    font-weight: 700
+}
+
+.donate-plan {
+    display: flex;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5%;
+}
+
+.one-third-width {
+    width: 25%;
+    padding-left: 1%;
+    border-radius: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+}
+
+.head-line-3 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.sub-line-3 {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.display-container-2 {
+    display: flex;
+    margin-left: 12%;
+    margin-top: 5%;
+}
+
+.food {
+    background-color: rgb(157, 241, 241);
+}
+
+.shalter {
+    margin-left: 3%;
+    background-color: pink;
+}
+
+.education {
+    margin-left: 3%;
+    background-color: antiquewhite;
 }
