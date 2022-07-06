@@ -42,7 +42,7 @@ body {
 
 .anchor {
     text-decoration: none;
-    background-image: linear-gradient(red, orange);
+    background-image: linear-gradient(rgb(30, 196, 218), orange);
     padding: 10px;
     border-radius: 5px;
     margin-left: 45%;
@@ -146,13 +146,13 @@ hr {
     padding-right: 1%;
 }
 
-.head-line-3 {
+.introduction-line-2 {
     color: black;
     text-align: center;
     font-size: 50px;
 }
 
-.sub-line-3 {
+.paragraph-line-2 {
     font-size: 20px;
     text-align: center;
     color: black;
@@ -180,7 +180,7 @@ hr {
 
 
 
-.news {
+.Facalities {
     text-align: center;
 }
 
@@ -228,7 +228,7 @@ fieldset {
     margin-bottom: 20%;
 }
 
-.main {
+.bounus-marks {
     display: flex;
     justify-content: center;
     margin-top: 5%;
@@ -261,10 +261,8 @@ footer {
     padding: 10px 0 10px 0;
 }
 
-.i’m gonna {
-
-
+.finish {
     font-style: normal;
-    color: green;
-    font-family: 'Courier New', Courier, monospace;
+    color: rgb(248, 111, 19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
